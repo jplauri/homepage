@@ -82,8 +82,8 @@ interests = [
 
 +++
 
-My main focus areas are graph theory (e.g., coloring), algorithms (e.g., parameterization), and complexity (e.g., lower bounds). I also enjoy programming and solving computationally difficult problems in practice.
+My main focus area has been graph theory, where I've particularly worked on various partitioning problems. This work has naturally involved algorithms (e.g., parameterization) and complexity (e.g., lower bounds). In addition, I have a strong background in programming (particularly C++), a good amount of experience in practical constraint programming, and a knack for computational combinatorics.
 
-I successfully defended my [doctoral thesis](http://urn.fi/URN:ISBN:978-952-15-3842-1) on 3rd of November, 2016. My opponent was [Pinar Heggernes](http://www.ii.uib.no/~pinar/) (University of Bergen). From May 2015 to May 2017, I was supported by the [Emil Aaltonen Foundation](https://emilaaltonen.fi/apurahat/in-english/).
-            
-In May 2017, I joined [Bell Labs](https://en.wikipedia.org/wiki/Bell_Labs) in Dublin, Ireland as a post-doctoral researcher.
+I successfully defended my [doctoral thesis](http://urn.fi/URN:ISBN:978-952-15-3842-1) on 3rd of November, 2016. My opponent was [Pinar Heggernes](http://www.ii.uib.no/~pinar/) (University of Bergen). From May 2015 to May 2017, I was supported by the [Emil Aaltonen Foundation](https://emilaaltonen.fi/apurahat/in-english/). Later in May 2017, I joined [Bell Labs](https://en.wikipedia.org/wiki/Bell_Labs) in Dublin, Ireland as a post-doctoral researcher where I worked until May 2019.
+
+Since June 2019, I've been employed by the [OP Financial Group](https://en.wikipedia.org/wiki/OP_Financial_Group) in Helsinki, Finland and don't actively work in the areas listed above. 
