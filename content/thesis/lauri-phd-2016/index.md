@@ -2,7 +2,7 @@
 title = "Chasing the Rainbow Connection: Hardness, Algorithms, and Bounds"
 date = 2016-03-11
 authors = []
-publication_types = ["7"]
+publication_types = ["2"]
 abstract = ""
 featured = false
 publication = "*Doctoral thesis, Tampere University of Technology, 1428, pp. 1459-2045*"
