@@ -86,4 +86,4 @@ My main focus areas are graph theory (e.g., coloring), algorithms (e.g., paramet
 
 I successfully defended my doctoral thesis on 3rd of November, 2016. My opponent was Pinar Heggernes (University of Bergen). From May 2015 to May 2017, I was supported by the Emil Aaltonen Foundation.
             
-In May 2017, I joined Bell Labs in Dublin, Ireland as a post-doctoral researcher.
+In May 2017, I joined Bell Labs in Dublin, Ireland as a post-doctoral researcher. [Test page](https://www.google.com/).
