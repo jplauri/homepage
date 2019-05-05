@@ -1,6 +1,6 @@
 +++
 title = "Rainbow Coloring and Connectivity Problems on Families of Perfect Graphs"
-date = 2014-01-01
+date = 2014-03-14
 authors = ["Juho Lauri"]
 publication_types = ["7"]
 abstract = ""
