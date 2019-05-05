@@ -5,7 +5,7 @@ authors = ["Marzio De Biasi", "Juho Lauri"]
 publication_types = ["2"]
 abstract = ""
 featured = false
-publication = "*Journal of Combinatorial Optimization*"
+publication = "*Journal of Combinatorial Optimization, 37(4), pp. 1150-1169*"
 url_pdf = "http://link.springer.com/10.1007/s10878-018-0342-2"
 doi = "10.1007/s10878-018-0342-2"
 +++
