@@ -3,6 +3,7 @@ title = "Computing Minimum Rainbow and Strong Rainbow Colorings of Block Graphs"
 date = 2018-01-01
 authors = ["Melissa Keranen", "Juho Lauri"]
 publication_types = ["2"]
+abstract = ""
 featured = false
 publication = "*Discrete Mathematics & Theoretical Computer Science ; Vol. 20 no. 1 ; 13658050*"
 tags = ["68R10", "Computer Science - Discrete Mathematics", "G.2.2"]
