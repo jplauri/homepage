@@ -34,17 +34,17 @@ interests = [
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "D.Sc. in Mathematics and Computer Science"
+  course = "D.Sc. in Math and Computer Science"
   institution = "Tampere University of Technology"
   year = 2016
 
 [[education.courses]]
-  course = "M.Sc. in Mathematics and Computer Science"
+  course = "M.Sc. in Math and Computer Science"
   institution = "Tampere University of Technology"
   year = 2014
 
 [[education.courses]]
-  course = "B.Sc. in Mathematics and Computer Science"
+  course = "B.Sc. in Math and Computer Science"
   institution = "Tampere University of Technology"
   year = 2013
 
