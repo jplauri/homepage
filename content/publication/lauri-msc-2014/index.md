@@ -11,3 +11,4 @@ tags = []
 url_pdf = ""
 +++
 
+Awarded 'Best Thesis of the Year 2014' by the [Finnish Society for Computer Science](http://www.tkts.fi/finnish-society-computer-science) (TKTS ry).
