@@ -1,6 +1,6 @@
 +++
 title = "Chasing the Rainbow Connection: Hardness, Algorithms, and Bounds"
-date = 2016-03-11
+date = 2016-11-03
 authors = ["Juho Lauri"]
 publication_types = ["7"]
 abstract = ""
@@ -11,3 +11,4 @@ tags = []
 url_pdf = "https://tutcris.tut.fi/portal/en/publications/chasing-the-rainbow-connection-hardness-algorithms-and-bounds(ba0c474a-ff9f-41b0-b6af-67a91da18583).html"
 +++
 
+Further information here.
