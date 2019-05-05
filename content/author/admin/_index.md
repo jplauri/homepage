@@ -84,6 +84,6 @@ interests = [
 
 My main focus areas are graph theory (e.g., coloring), algorithms (e.g., parameterization), and complexity (e.g., lower bounds). I also enjoy programming and solving computationally difficult problems in practice.
 
-I successfully defended my [doctoral thesis](http://urn.fi/URN:ISBN:978-952-15-3842-1) on 3rd of November, 2016. My opponent was Pinar Heggernes (University of Bergen). From May 2015 to May 2017, I was supported by the [Emil Aaltonen Foundation](https://emilaaltonen.fi/apurahat/in-english/).
+I successfully defended my [doctoral thesis](http://urn.fi/URN:ISBN:978-952-15-3842-1) on 3rd of November, 2016. My opponent was [Pinar Heggernes](http://www.ii.uib.no/~pinar/) (University of Bergen). From May 2015 to May 2017, I was supported by the [Emil Aaltonen Foundation](https://emilaaltonen.fi/apurahat/in-english/).
             
 In May 2017, I joined [Bell Labs](https://en.wikipedia.org/wiki/Bell_Labs) in Dublin, Ireland as a post-doctoral researcher.
