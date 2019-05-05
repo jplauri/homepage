@@ -7,7 +7,7 @@ abstract = ""
 featured = false
 publication = "*In Proceedings of the 26th International Workshop on Combinatorial Algorithms, IWOCA 2015, Verona, Italy, October 5-7, pp. 209-220, 2015*"
 publication_short = "*In Proceedings of the 26th International Workshop on Combinatorial Algorithms, IWOCA 2015, Verona, Italy, October 5-7, pp. 209-220, 2015*"
-url_pdf = "http://epubs.siam.org/doi/book/10.1137/1.9781611973754"
-doi = "10.1137/1.9781611973754"
+url_pdf = "https://link.springer.com/chapter/10.1007%2F978-3-319-29516-9_18"
+doi = "10.1007/978-3-319-29516-9_18"
 +++
 
