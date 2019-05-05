@@ -10,8 +10,7 @@ publication_short = "*Doctoral thesis, Tampere University of Technology, 1428, p
 tags = []
 url_pdf = "https://tutcris.tut.fi/portal/en/publications/chasing-the-rainbow-connection-hardness-algorithms-and-bounds(ba0c474a-ff9f-41b0-b6af-67a91da18583).html"
 
-links = [{icon_pack="fab", icon="twitter", name="Follow", url="https://twitter.com/Twitter"},
-         {icon_pack="fab", icon="medium", name="Originally published on Medium", url="https://medium.com"}]
+links = [{icon_pack="fab", icon="stream", name="Errata", url="https://twitter.com/Twitter"}]
 +++
 
-Approved with distinction. test
+Approved with distinction.
