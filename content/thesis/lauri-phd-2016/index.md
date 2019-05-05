@@ -1,7 +1,7 @@
 +++
 title = "Chasing the Rainbow Connection: Hardness, Algorithms, and Bounds"
 date = 2016-03-11
-authors = ["Juho Lauri"]
+authors = []
 publication_types = ["7"]
 abstract = ""
 featured = false
