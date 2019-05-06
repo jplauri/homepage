@@ -9,7 +9,7 @@ publication = "*Doctoral thesis, Tampere University of Technology, 1428, pp. 145
 publication_short = "*Doctoral thesis, Tampere University of Technology, 1428, pp. 1459-2045*"
 tags = []
 url_pdf = "http://urn.fi/URN:ISBN:978-952-15-3842-1"
-links = [{icon_pack="fab", icon="", name="Errata", url="https://www.google.com"}]
+links = [{icon_pack="fab", icon="", name="Erratum", url="phd-erratum.pdf"}]
 +++
 
 Approved with distinction.
