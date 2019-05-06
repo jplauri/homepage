@@ -9,6 +9,7 @@ publication = "*Master's thesis, Tampere University of Technology*"
 publication_short = "*Master's thesis, Tampere University of Technology*"
 tags = []
 url_pdf = ""
+links = [{icon_pack="fab", icon="award", name="Award", url="Gradukilpailutiedote-final.pdf"}]
 +++
 
 Awarded 'Best Thesis of the Year 2014' by the [Finnish Society for Computer Science](http://www.tkts.fi/finnish-society-computer-science) (TKTS ry).
