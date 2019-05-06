@@ -67,5 +67,5 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-Click [here]({{< ref "/publication/_index.md" >}}) to filter publications.
+[Browse]({{< ref "/publication/_index.md" >}}) all my publications.
 {{% /alert %}}
