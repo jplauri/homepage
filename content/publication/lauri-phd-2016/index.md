@@ -9,7 +9,6 @@ publication = "*Doctoral thesis, Tampere University of Technology, 1428, pp. 145
 publication_short = "*Doctoral thesis, Tampere University of Technology, 1428, pp. 1459-2045*"
 tags = []
 url_pdf = "https://tutcris.tut.fi/portal/en/publications/chasing-the-rainbow-connection-hardness-algorithms-and-bounds(ba0c474a-ff9f-41b0-b6af-67a91da18583).html"
-
 links = [{name="Errata", url="https://to.be.added}]
 +++
 
