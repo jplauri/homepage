@@ -2,7 +2,7 @@
 title = "On the Fine-Grained Complexity of Rainbow Coloring"
 date = 2016-01-01
 authors = ["Lukasz Kowalik", "Juho Lauri", "Arkadiusz Socala"]
-publication_types = ["2"]
+publication_types = ["1"]
 abstract = ""
 featured = false
 publication = "*In Proceedings of the 24th Annual European Symposium on Algorithms, ESA 2016, Aarhus, Denmark, August 22-24, pp. 58:1-58:16, 2016*"
