@@ -2,7 +2,7 @@
 title = "Rainbow Vertex Coloring Bipartite Graphs and Chordal Graphs"
 date = 2018-01-01
 authors = ["Pinar Heggernes", "Davis Issac", "Juho Lauri", "Paloma T. Lima", "Erik Jan Van Leeuwen"]
-publication_types = ["2"]
+publication_types = ["1"]
 abstract = ""
 featured = false
 publication = "*In Proceedings of the 43rd International Symposium on Mathematical Foundations of Computer Science, MFCS 2018, Liverpool, United Kingdom, August 27-31, pp. 83:1-83:13, 2018*"
